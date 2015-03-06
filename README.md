@@ -4,3 +4,4 @@ this repo is the code i practice design patterns, i will use c++ to implement th
 i will try to commit everyday. So, in the next days, this computer will automatically push some little modifications to this repo.
 Fri Mar  6 21:42:09 CST 2015
 Fri Mar  6 21:43:08 CST 2015
+Fri Mar  6 21:44:01 CST 2015
