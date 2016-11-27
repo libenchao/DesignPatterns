@@ -13,6 +13,7 @@ public class WeatherData extends Observable {
 
     public void measurementsChanged() {
         setChanged();
+        // this is pull way. if notifyObservers(some args); then will be push way.
         notifyObservers();
     }
 
